@@ -13,9 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
     "koa-jwt": "^3.6.0",
     "koa-mysql": "^1.0.3",
+    "koa-mysql-session": "0.0.2",
     "koa-router": "^8.0.6",
+    "koa-session-minimal": "^3.0.4",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
