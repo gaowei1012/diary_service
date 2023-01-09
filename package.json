@@ -14,7 +14,7 @@
   "dependencies": {
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
-    "koa-jwt": "^3.6.0",
+    "koa-jwt": "^4.0.4",
     "koa-mysql": "^1.0.3",
     "koa-mysql-session": "0.0.2",
     "koa-router": "^8.0.6",
